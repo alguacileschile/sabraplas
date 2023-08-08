@@ -198,7 +198,7 @@ a h6 {
 }
 
 .paginations ul li a.active, .paginations ul li a:hover, .bg-theme, .lab-btn, .scrollToTop i, .tags-section .tags li a:hover, .tags-section .tags li span::after, .tags-section .tags li span {
-  background: 8a4be4;
+  background: #8a4be4;
 }
 
 .paginations ul li a, .bg-prime {
