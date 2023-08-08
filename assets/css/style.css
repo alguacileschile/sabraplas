@@ -2093,7 +2093,7 @@ input, textarea, select {
   flex-direction: column-reverse;
   bottom: 0;
   left: 0;
-  background-color: rgba(52, 189, 107, 0.9);
+  background-color: #8a4be4;
   opacity: 0;
 }
 .project__icon {
@@ -2797,7 +2797,7 @@ input, textarea, select {
   min-width: 200px;
 }
 .jobs__lists .table tr td p b {
-  color: #00c851;
+  color: #8a4be4;
 }
 .jobs__lists .table.table-striped > tbody > tr:nth-of-type(odd) {
   --bs-table-accent-bg: #fff;
@@ -3517,7 +3517,7 @@ input, textarea, select {
   font-size: 1rem;
 }
 .form-message.success {
-  color: #00c851;
+  color: #8a4be4;
 }
 .footer .bg-title .footer__page .footer__wrapper ul li a:hover::after, .footer .bg-title .footer__page .footer__wrapper ul li a:focus::after {
   border-left-color: #8a4be4;
