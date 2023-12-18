@@ -177,7 +177,7 @@ a h3,
 a h4,
 a h5,
 a h6 {
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 /* @@@@@@@@@@@@@  Extend Property CSS Writing Now  @@@@@@@@@@@@@@ */
