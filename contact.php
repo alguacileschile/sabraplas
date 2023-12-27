@@ -14,7 +14,7 @@
         }
 
         // FIXME: Update this to your desired email address.
-        $recipient = "javieriuta@gmail.com";
+        $recipient = "alguacileschile@gmail.com";
 
         // Build the email content.
         $email_content = "Full Name: $name\n";
